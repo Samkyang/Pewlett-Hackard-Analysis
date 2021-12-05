@@ -5,8 +5,9 @@
 
 ## Results
 #### Analysis 1: Determine the number of retiring employees by titles
-    1. 
-    2.
+    1. We saw from the unique_titles table that there are a total of 90398 employees retiring
+    2. The amount of employees retiring from each department
+        a. ![retiring_titiles](https://user-images.githubusercontent.com/92561003/144760804-3a1a9d44-b7ec-4b9f-9a17-b23f50ef9d3b.png)
     3.
     4.
 #### Analysis 2: Determine the number of employees eligible for the mentorship program
